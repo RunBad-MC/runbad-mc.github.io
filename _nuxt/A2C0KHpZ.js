@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as s,o as t,p as n}from"./BvkC8_8g.js";const _={},c={class:"max-w-2xl mx-auto rules"};function r(e,a){return t(),s("div",c,[n(e.$slots,"default")])}const f=Object.assign(o(_,[["render",r]]),{__name:"Rules"});export{f as _};
