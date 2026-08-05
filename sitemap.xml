@@ -46,9 +46,84 @@
         </image:image>
     </url>
     <url>
-        <loc>https://runbad.net/wiki/welcome</loc>
+        <loc>https://runbad.net/wiki/guides</loc>
         <image:image>
             <image:loc>https://runbad.net/img/logo.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://runbad.net/wiki/guides/claims</loc>
+        <image:image>
+            <image:loc>https://runbad.net/img/logo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/claims-stick.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/claims-player.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/claims-player-overhead.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/claims-subdivision.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/claims-admin.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://runbad.net/wiki/guides/critter-catcher</loc>
+        <image:image>
+            <image:loc>https://runbad.net/img/logo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/catcher-crafting.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/catcher-mob-uncaught.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/catcher-mob-caught.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/catcher-mob-caught-item.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/catcher-mob-caught-respawned.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://runbad.net/wiki/guides/discord-linking</loc>
+        <image:image>
+            <image:loc>https://runbad.net/img/logo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/linking-code-provided.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/linking-this-is-beanlink.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://runbad.net/wiki/guides/rgb-nicknames</loc>
+        <image:image>
+            <image:loc>https://runbad.net/img/logo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/birdflop-mainpage.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/birdflop-format-type.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://runbad.net/wiki/guides/worlds</loc>
+        <image:image>
+            <image:loc>https://runbad.net/img/logo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://runbad.net/img/wiki/rtp-menu.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -93,53 +168,5 @@
             <image:loc>https://runbad.net/img/logo.webp</image:loc>
         </image:image>
     </url>
-    <url>
-        <loc>https://runbad.net/wiki/welcome/index</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://runbad.net/wiki/progression/ranks/bag-o-beans</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://runbad.net/wiki/progression/ranks/bean</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://runbad.net/wiki/progression/ranks/bean-collective</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://runbad.net/wiki/progression/ranks/bean-god</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://runbad.net/wiki/progression/ranks/big-bean</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://runbad.net/wiki/progression/ranks/sprout</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://runbad.net/wiki/progression/ranks/staff-ranks</loc>
-        <image:image>
-            <image:loc>https://runbad.net/img/logo.webp</image:loc>
-        </image:image>
-    </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.3.0 at 2026-07-26T05:37:22.830Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.3.0 at 2026-08-05T01:27:08.122Z -->
