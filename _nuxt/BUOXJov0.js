@@ -1,1 +1,0 @@
-import{B as e,I as t,m as n}from"./BWebwUvE.js";import{t as r}from"./BDNMzG2s.js";var i={},a={class:`max-w-2xl mx-auto rules`};function o(r,i){return t(),n(`div`,a,[e(r.$slots,`default`)])}var s=Object.assign(r(i,[[`render`,o]]),{__name:`Rules`});export{s as t};
