@@ -1,0 +1,1 @@
+import{a as e}from"./BWsTrwan.js";var t=(t,n)=>{e({title:t,description:n,ogTitle:t,ogDescription:n,twitterTitle:t,twitterDescription:n})};export{t};
